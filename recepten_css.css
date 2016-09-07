@@ -1,0 +1,39 @@
+body {
+	background-image: url("img_recepten/Background.jpg");
+	color:black;
+	font-family : Tahoma;
+}
+h1 {
+	color:black;
+    margin-top:100px;
+
+}
+img{
+	border-width: 1px;
+	border-color : black;
+	border-style : solid;
+    float:right;
+    margin:70px;
+    margin-top:150px;
+}
+
+ul {
+	width:100px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    
+    list-style-type: square;
+    text-align:left;
+}
+main {
+    padding:1000px;
+    max-width: 1000px;
+
+}
