@@ -16,19 +16,8 @@ img{
     margin:70px;
     margin-top:150px;
 }
-
-ul {
-	width:100px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
-}
-
 li {
-    
+
     list-style-type: square;
     text-align:left;
 }
